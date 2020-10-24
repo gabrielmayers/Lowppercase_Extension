@@ -1,0 +1,11 @@
+{
+    "name" : "Uppercaser",
+    "version" : "1.0",
+    "description" : "Uppercase all letters of a text",
+    "browser_action" : {
+        "default_popup" : "index.html"
+
+    }, 
+
+    "manifest_version" : 2
+}
